@@ -8,6 +8,7 @@ public class test1 {
 		Random random = new Random();
 		int a=random.nextInt(1);
 		System.out.println(a);
+		System.out.println("My third");
 
 	}
 
