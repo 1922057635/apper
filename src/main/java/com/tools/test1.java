@@ -9,6 +9,7 @@ public class test1 {
 		int a=random.nextInt(1);
 		System.out.println(a);
 		System.out.println("My third");
+		System.out.println("My second");
 
 	}
 
